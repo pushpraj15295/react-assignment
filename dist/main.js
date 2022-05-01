@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("navbar").innerHTML='<h3><a href="index.html">Home</a></h3>\n\n    <div id="options">\n        <h3>\n        <a href="/jewelery.html">jewelery</a>\n        </h3>\n        <h3><a href="electronic.html">Electronic</a></h3>\n        <h3><a href="login.html">Login</a></h3>\n        <h3><a href="signup.html">signUp</a></h3>\n    </div>'})();
